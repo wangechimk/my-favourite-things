@@ -1,0 +1,64 @@
+img {
+    float: left;
+}
+.sidebar{
+    width: 40%;
+    float:right;
+    background-color: crimson
+}
+ .intro{
+     font-style: italic;
+ }
+ .favourite{
+     color:mediumseagreen;
+ }
+.favourite {
+    color: mediumseagreen;
+}
+p.favourite {
+    font-size: 20px;
+}
+.one {
+    color: teal;
+}
+ h1{text-align: center;
+ }
+ p{
+ font-family: sans-serif;
+ }
+ ul{
+  line-height:40px; 
+ }
+ h1{
+   color: midnightblue;
+   text-align: center;
+ }
+ h2{
+    font-style: oblique;
+    text-align: center;
+ }
+ ul{
+     line-height:30px ;
+ }
+ p{
+     background-color: mintcream;
+ }
+ ul{
+     background-color: paleturquoise;
+ }
+ h1{
+     background-color: plum;
+ }
+ h1{
+     color: brown;
+ }
+p.introduction{
+     font-style:italic ;
+}
+.tropical{
+    font-style: italic;
+}
+ .popular{
+     font-style: italic;
+     color: crimson;
+ }
